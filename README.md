@@ -28,7 +28,7 @@ A TypeScript CLI application for searching Star Wars characters via a WebSocket 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/traghubans/valstro_search.git>
    cd <repository-name>
    ```
 
@@ -72,16 +72,6 @@ src/
     └── starwars-people.json
 ```
 
-## Requirements Checklist
-
-- [x] Real-time WebSocket communication
-- [x] TypeScript implementation
-- [x] Error handling and recovery
-- [x] Clean, modular code structure
-- [x] Docker containerization
-- [x] Graceful shutdown handling
-- [x] Formatted output
-
 
 ## What I would do if I had more time
 - Coloring the Console for easier readability
@@ -90,6 +80,7 @@ src/
     - Server is unreachable
     - offline usage
 - Unit tests, and testable data
+   - Specifically making unit tests for searching a known character, half a name ("luk"), and a character that doesn't exist
 - Input Validation 
 
 ## Demo
