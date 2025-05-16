@@ -1,0 +1,23 @@
+{
+  "name": "valstro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/main.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "@types/axios": "^0.9.36",
+    "@types/node": "^22.15.17",
+    "axios": "^1.9.0",
+    "readline": "^1.3.0",
+    "socket.io-client": "^4.8.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
