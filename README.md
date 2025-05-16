@@ -79,8 +79,10 @@ src/
 - Better error handling, or a fallback mode with the cached data in the following cases
     - Server is unreachable
     - offline usage
-- Unit tests, and testable data
+- Unit tests and testable data
    - Specifically making unit tests for searching a known character, half a name ("luk"), and a character that doesn't exist
 - Input Validation 
 
 ## Demo
+https://github.com/user-attachments/assets/7ae3011c-b819-418b-aab2-ea2809dbd026
+
